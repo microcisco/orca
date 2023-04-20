@@ -17,5 +17,6 @@
         Simulator.instance.run(dt);
 ```
 ####引用
-![avatar](https://github.com/microcisco/astartForTS/blob/master/1.png)
+![avatar](https://github.com/microcisco/orca/blob/master/1.gif)
+![avatar](https://github.com/microcisco/orca/blob/master/2.gif)
 1. 用的这个库，在使用的过程改了几个bug,性能目前还没优化，后续优化性能后会更新 https://github.com/shangdibaozi/RVO
